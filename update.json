@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
-  "apkUrl": "https://github.com/AhmedHashem500/animal-world-releases/releases/download/v1.0.7/animal_world-v1.0.7.apk",
-  "notes": "تحديث 1.0.7: قسم العصفور بالشجرة والأغصان يقف عليها الطائر، الطائر الأحمر، بيض أبيض، وتحسينات عامة. 🐦🌳",
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/AhmedHashem500/animal-world-releases/releases/download/v1.0.8/animal_world-v1.0.8.apk",
+  "notes": "تحديث 1.0.8: كاميرا أكثر ثباتاً مع إصلاح التعليق عند الرجوع، شجرة العصفور بأوراق واقعية وأغصان، شاشة جسم الإنسان أوضح مع نقاط لكل عضو ولسان يخرج من الفم، تحسينات على ترتيب الفلاتر والإعدادات، وحركات دخول أجمل في الشاشة الرئيسية. 📸🌳🧒",
   "mandatory": false
 }
