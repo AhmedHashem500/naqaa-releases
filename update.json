@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.11",
-  "apkUrl": "https://github.com/AhmedHashem500/naqaa-releases/releases/download/v1.0.11/naqaa_app-v1.0.11.apk",
-  "notes": "تحديث 1.0.11: لعبتان جديدتان — الذباب 🪰 (اضرب الحشرات بالمضرب) والأوراق المتساقطة 🍁 (المسها لتتحول إلى فراشات)، مع أصوات وتأثيرات مرحة وحركة فراشات واقعية. وتحسين كبير جدًا في سلاسة اللمس داخل جميع الألعاب. مع كل تحسينات الإصدارات السابقة. 🎉",
+  "versionCode": 13,
+  "versionName": "1.0.12",
+  "apkUrl": "https://github.com/AhmedHashem500/naqaa-releases/releases/download/v1.0.12/naqaa_app-v1.0.12.apk",
+  "notes": "تحديث 1.0.12: تحسينات على كاميرا المؤثرات — إزالة بعض المؤثرات وترتيب أفضل (خوذة الفايكنج أولاً) ⛑️، مع إصلاحات وتحسينات عامة. 🎉",
   "mandatory": false
 }
