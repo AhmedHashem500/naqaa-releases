@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.10",
-  "apkUrl": "https://github.com/AhmedHashem500/animal-world-releases/releases/download/v1.0.10/animal_world-v1.0.10.apk",
-  "notes": "تحديث 1.0.10: إصلاح تعطل الكاميرا المرحة عند فتحها، وتحسين التحديث بحيث لا يُعاد التنزيل من البداية عند إعادة محاولة التثبيت. مع كل تحسينات الإصدارات السابقة (التشكيل والنطق الفصيح). 📸✅",
+  "versionCode": 12,
+  "versionName": "1.0.11",
+  "apkUrl": "https://github.com/AhmedHashem500/naqaa-releases/releases/download/v1.0.11/naqaa_app-v1.0.11.apk",
+  "notes": "تحديث 1.0.11: لعبتان جديدتان — الذباب 🪰 (اضرب الحشرات بالمضرب) والأوراق المتساقطة 🍁 (المسها لتتحول إلى فراشات)، مع أصوات وتأثيرات مرحة وحركة فراشات واقعية. وتحسين كبير جدًا في سلاسة اللمس داخل جميع الألعاب. مع كل تحسينات الإصدارات السابقة. 🎉",
   "mandatory": false
 }
