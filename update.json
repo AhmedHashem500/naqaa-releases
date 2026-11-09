@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.14",
-  "apkUrl": "https://github.com/AhmedHashem500/naqaa-releases/releases/download/v1.0.14/naqaa_app-v1.0.14.apk",
-  "notes": "تحديث 1.0.14: شورتس للأطفال 🎬 فيديوهات قصيرة بتتقلب بلا نهاية وبترتيب عشوائي، أيقونة شورتس على الشاشة الرئيسية، إضافة فيديوهات وبلاي ليستات من الإعدادات، وحد يومي لوقت الفرجة. 🎉",
+  "versionCode": 16,
+  "versionName": "1.0.15",
+  "apkUrl": "https://github.com/AhmedHashem500/naqaa-releases/releases/download/v1.0.15/naqaa_app-v1.0.15.apk",
+  "notes": "تحديث 1.0.15: شورتس بقى تطبيق لوحده بشاشة بداية داكنة زي يوتيوب، وزرار في إعدادات الشورتس يضيف أيقونة شورتس حمرا للشاشة الرئيسية. لوحة أرقام القفل بقت 1 2 3 من الشمال لليمين، والقفل مش بيرجع لوحده بعد ما تفكه. وإصلاحات للاستقرار. 🎉",
   "mandatory": false
 }
