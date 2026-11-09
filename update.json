@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.0.15",
-  "apkUrl": "https://github.com/AhmedHashem500/naqaa-releases/releases/download/v1.0.15/naqaa_app-v1.0.15.apk",
-  "notes": "تحديث 1.0.15: شورتس بقى تطبيق لوحده بشاشة بداية داكنة زي يوتيوب، وزرار في إعدادات الشورتس يضيف أيقونة شورتس حمرا للشاشة الرئيسية. لوحة أرقام القفل بقت 1 2 3 من الشمال لليمين، والقفل مش بيرجع لوحده بعد ما تفكه. وإصلاحات للاستقرار. 🎉",
+  "versionCode": 17,
+  "versionName": "1.0.16",
+  "apkUrl": "https://github.com/AhmedHashem500/naqaa-releases/releases/download/v1.0.16/naqaa_app-v1.0.16.apk",
+  "notes": "تحديث 1.0.16: الأسماء بقت بالمصري (معزة، أتوبيس، بمبي) وكل الحيوانات والأقسام بقى ليها صوت مصري متسجل بدل الصوت الآلي. 🎉",
   "mandatory": false
 }
