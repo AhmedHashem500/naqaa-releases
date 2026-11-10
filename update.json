@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.0.18",
-  "apkUrl": "https://github.com/AhmedHashem500/naqaa-releases/releases/download/v1.0.18/naqaa_app-v1.0.18.apk",
-  "notes": "تحديث 1.0.18: قسم جديد للمشاعر بـ 8 وشوش وجملة بالصوت، وصفحات الألوان بقت متلونة بلونها كلها، وخضار مصري جديد زي الملوخية والبامية والقلقاس. 🎉",
+  "versionCode": 20,
+  "versionName": "1.0.19",
+  "apkUrl": "https://github.com/AhmedHashem500/naqaa-releases/releases/download/v1.0.19/naqaa_app-v1.0.19.apk",
+  "notes": "تحديث 1.0.19: تقدر تضيف شورتس من لينك قناة، وتختار الفيديوهات اللي عايزها من ليستة فيها تحديد الكل وإلغاء الكل. 🎉",
   "mandatory": false
 }
