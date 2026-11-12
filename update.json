@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "1.0.19",
-  "apkUrl": "https://github.com/AhmedHashem500/naqaa-releases/releases/download/v1.0.19/naqaa_app-v1.0.19.apk",
-  "notes": "تحديث 1.0.19: تقدر تضيف شورتس من لينك قناة، وتختار الفيديوهات اللي عايزها من ليستة فيها تحديد الكل وإلغاء الكل. 🎉",
+  "versionCode": 22,
+  "versionName": "1.0.21",
+  "apkUrl": "https://github.com/AhmedHashem500/naqaa-releases/releases/download/v1.0.21/naqaa-1.0.21.apk",
+  "notes": "تحديث 1.0.21: شكل جديد كله زي عالم ألعاب، صور حقيقية مفرغة لكل حاجة، ألعاب أطول بـ 3 مستويات، لعبة الظل الجديدة، وفي حيواني الناطق بقى فيه كلب اسمه بندق وقرد اسمه ميمو جنب القطة. 🎉",
   "mandatory": false
 }
