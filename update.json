@@ -1,7 +1,13 @@
 {
-  "versionCode": 23,
-  "versionName": "1.0.22",
-  "apkUrl": "https://github.com/AhmedHashem500/naqaa-releases/releases/download/v1.0.22/naqaa-1.0.22.apk",
-  "notes": "تحديث 1.0.22: شاشة بداية جديدة بعالم مشمس، كوبايات واضحة، كل الألعاب ليها صوت، الحيوانات الناطقة بتمسك حاجاتها صح، كاميرا بفيديو وعدسات، مسح الصور شغال، أصوات حيوانات أوضح، وأيقونة فيها البنت باينة. 🎉",
-  "mandatory": false
+  "schemaVersion": 2,
+  "packageName": "com.naqaa.naqaa_app",
+  "versionCode": 24,
+  "versionName": "1.0.23",
+  "apkUrl": "https://github.com/AhmedHashem500/naqaa-releases/releases/download/v1.0.23/naqaa-1.0.23.apk",
+  "sha256": "0fb5735a9add125af1fd55a1ed7e2957f63e41cad73ba0d0506809dd22290c21",
+  "sizeBytes": 109280884,
+  "minSdk": 24,
+  "notes": "تحديث 1.0.23: ساحر كرتوني جديد في لعبة الكوبايات بيضحك ويساعد لو البنت اتأخرت، مسرح سحري بدل الخيمة، وتحديثات أأمن بتتأكد من الملف قبل التثبيت. 🎩",
+  "mandatory": false,
+  "publishedAt": "2026-11-13T07:49:09Z"
 }
