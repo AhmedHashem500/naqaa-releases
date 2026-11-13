@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
   "packageName": "com.naqaa.naqaa_app",
-  "versionCode": 24,
-  "versionName": "1.0.23",
-  "apkUrl": "https://github.com/AhmedHashem500/naqaa-releases/releases/download/v1.0.23/naqaa-1.0.23.apk",
-  "sha256": "0fb5735a9add125af1fd55a1ed7e2957f63e41cad73ba0d0506809dd22290c21",
+  "versionCode": 25,
+  "versionName": "1.0.24",
+  "apkUrl": "https://github.com/AhmedHashem500/naqaa-releases/releases/download/v1.0.24/naqaa-1.0.24.apk",
+  "sha256": "4b07568abf550ffe17f57b0c7c27f979c3fb309b27e1eac1b642f708264b78fb",
   "sizeBytes": 109280884,
   "minSdk": 24,
-  "notes": "تحديث 1.0.23: ساحر كرتوني جديد في لعبة الكوبايات بيضحك ويساعد لو البنت اتأخرت، مسرح سحري بدل الخيمة، وتحديثات أأمن بتتأكد من الملف قبل التثبيت. 🎩",
+  "notes": "تحديث 1.0.24: تحسينات صغيرة وتأكيد إن التحديث التلقائي الجديد شغال. ✅",
   "mandatory": false,
-  "publishedAt": "2026-11-13T07:49:09Z"
+  "publishedAt": "2026-11-13T07:57:54Z"
 }
