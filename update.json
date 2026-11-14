@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
   "packageName": "com.naqaa.naqaa_app",
-  "versionCode": 25,
-  "versionName": "1.0.24",
-  "apkUrl": "https://github.com/AhmedHashem500/naqaa-releases/releases/download/v1.0.24/naqaa-1.0.24.apk",
-  "sha256": "4b07568abf550ffe17f57b0c7c27f979c3fb309b27e1eac1b642f708264b78fb",
-  "sizeBytes": 109280884,
+  "versionCode": 26,
+  "versionName": "1.0.25",
+  "apkUrl": "https://github.com/AhmedHashem500/naqaa-releases/releases/download/v1.0.25/naqaa-1.0.25.apk",
+  "sha256": "e7c808c296e91138da6eea1392315d9acb917fcd132d08af5d9c7dc179085624",
+  "sizeBytes": 94236240,
   "minSdk": 24,
-  "notes": "تحديث 1.0.24: تحسينات صغيرة وتأكيد إن التحديث التلقائي الجديد شغال. ✅",
+  "notes": "مشهد البالونة للقطة، صوت سمكة المهرج، دوسة طويلة تخفي الزراير في الشورتس، والتطبيق بقى أصغر",
   "mandatory": false,
-  "publishedAt": "2026-11-13T07:57:54Z"
+  "publishedAt": "2026-11-14T14:17:40Z"
 }
